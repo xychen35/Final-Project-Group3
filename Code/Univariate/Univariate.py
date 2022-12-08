@@ -108,8 +108,8 @@ reframed.drop(reframed.columns[[9, 10, 11, 12, 13, 14, 15]], axis=1, inplace=Tru
 # print(reframed.shape)
 
 values = reframed.values
-# We train the model on the 1st 3 years and then test on the last year (for now)
-n_train_hours = 365 * 24 * 3
+# The first 4 years
+n_train_hours = 365 * 24 * 4
 
 train = values[:n_train_hours, :]
 test = values[n_train_hours:, :]
