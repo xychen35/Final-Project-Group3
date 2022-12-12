@@ -1,5 +1,6 @@
 # Final-Project-Group3
 Group members: Xiaoyang Chen, Julia Jin
+
 This is the final group project of the DATS 6203 Machine Learning II class.
 - Group Proposal: the proposal initiated at the start of the project.
 - Code:
