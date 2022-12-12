@@ -8,5 +8,7 @@ This is the final group project of the DATS 6203 Machine Learning II class.
 - Final Group Presentation: presentation slides of the project.
 
 First, create a folder for this project.
+
 Then open the "Code/Multivariate" folder and run "Multi_variate.py" to get multivariate model result.
+
 Then open the "Code/Univariate" folder and run "Univariate.py" to get multivariate model result.
